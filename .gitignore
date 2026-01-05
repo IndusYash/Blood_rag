@@ -1,0 +1,139 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Flask
+instance/
+.webassets-cache
+
+# PyTorch
+*.pth
+*.pt
+!best.pt
+!model.pt
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded Files
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Vector Store
+backend/rag/vector_store/*
+!backend/rag/vector_store/.gitkeep
+
+# Models (large files)
+backend/models/yolo_detector/*.pt
+backend/models/vit_classifier/*.pt
+!backend/models/yolo_detector/README.md
+!backend/models/vit_classifier/README.md
+
+# Dataset (large files)
+dataset/PlantVillage/*
+dataset/MedMNIST/*
+dataset/custom_medical_docs/*
+dataset/raw_images/*
+dataset/processed_images/*
+!dataset/**/.gitkeep
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Frontend Build
+frontend/dist/
+frontend/build/
+frontend/.cache/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# OS
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# API Keys (extra safety)
+*_api_key*
+*_secret*
+credentials.json
+secrets.json
+
+# Training Outputs
+training/runs/
+training/output/
+training/checkpoints/
+
+# Documentation Temp Files
+docs/*.tmp
+docs/*.pdf.tmp
+
+# Misc
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/

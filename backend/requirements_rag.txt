@@ -1,0 +1,16 @@
+# Requirements for offline RAG system
+# Add these to your existing requirements_simple.txt
+
+# Embedding Model (offline)
+sentence-transformers==2.2.2
+
+# Vector Database (offline)
+chromadb==0.4.22
+
+# Local LLM
+transformers==4.36.0
+torch==2.1.2
+accelerate==0.25.0
+
+# PDF Processing (already have these)
+PyPDF2==3.0.1

@@ -1,0 +1,124 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources <<
+/Font <<
+/F1 <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2200
+>>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(RADIOLOGY TERMINOLOGY - MEDICAL REFERENCE) Tj
+0 -30 Td
+(=========================================) Tj
+0 -40 Td
+(COMMON IMAGING MODALITIES) Tj
+0 -25 Td
+(1. X-RAY \(RADIOGRAPHY\)) Tj
+0 -15 Td
+(   - Uses ionizing radiation to create images) Tj
+0 -15 Td
+(   - Best for: Bones, chest, dental imaging) Tj
+0 -15 Td
+(   - Common findings: Fractures, pneumonia, tumors) Tj
+0 -25 Td
+(2. CT SCAN \(COMPUTED TOMOGRAPHY\)) Tj
+0 -15 Td
+(   - Cross-sectional imaging using X-rays) Tj
+0 -15 Td
+(   - Best for: Detailed organ visualization, trauma) Tj
+0 -15 Td
+(   - Terms: Hypodense \(darker\), Hyperdense \(brighter\)) Tj
+0 -25 Td
+(3. MRI \(MAGNETIC RESONANCE IMAGING\)) Tj
+0 -15 Td
+(   - Uses magnetic fields and radio waves) Tj
+0 -15 Td
+(   - Best for: Soft tissues, brain, spinal cord) Tj
+0 -15 Td
+(   - No ionizing radiation) Tj
+0 -25 Td
+(4. ULTRASOUND) Tj
+0 -15 Td
+(   - Uses high-frequency sound waves) Tj
+0 -15 Td
+(   - Best for: Pregnancy, abdominal organs, blood flow) Tj
+0 -15 Td
+(   - Real-time imaging, safe and non-invasive) Tj
+0 -30 Td
+(COMMON RADIOLOGY TERMS) Tj
+0 -20 Td
+(- Opacity: Area that blocks X-rays \(appears white\)) Tj
+0 -15 Td
+(- Lucency: Area that allows X-rays through \(appears dark\)) Tj
+0 -15 Td
+(- Consolidation: Filling of airspaces in lungs) Tj
+0 -15 Td
+(- Atelectasis: Collapsed or airless lung) Tj
+0 -15 Td
+(- Effusion: Fluid collection \(pleural, pericardial\)) Tj
+0 -15 Td
+(- Mass: Abnormal tissue growth) Tj
+0 -15 Td
+(- Nodule: Small rounded lesion) Tj
+0 -15 Td
+(- Calcification: Calcium deposits in tissue) Tj
+0 -30 Td
+(CHEST X-RAY FINDINGS) Tj
+0 -20 Td
+(- Cardiomegaly: Enlarged heart) Tj
+0 -15 Td
+(- Pneumothorax: Air in pleural space) Tj
+0 -15 Td
+(- Infiltrate: Abnormal substance in lung tissue) Tj
+0 -15 Td
+(- Fibrosis: Scarring of lung tissue) Tj
+0 -30 Td
+(Note: Always correlate imaging with clinical findings.) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000315 00000 n
+trailer
+<<
+/Size 5
+/Root 1 0 R
+>>
+startxref
+2567
+%%EOF
